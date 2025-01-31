@@ -9,3 +9,23 @@
 .card-image{
 	width: 100%;
 }
+
+
+
+#not-found-text{
+	font-size: 2rem;
+	font-weight: bold;
+	width: auto;
+	
+	text-align: center;
+}
+
+
+.group-container{
+	margin-top: 90px;
+	margin-left: 50px;
+}
+
+#table-drink-image{
+	
+}

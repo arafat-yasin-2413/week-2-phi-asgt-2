@@ -7,7 +7,7 @@ const loadAllDrink = () => {
     .then((res) => res.json()) 
     .then((data) => {
         allDrink = data.drinks;
-        console.log(data.drinks);
+        // console.log(data.drinks);
         displayDrinks(data.drinks)
     });
 }

@@ -176,18 +176,4 @@ const updateTable = () => {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 loadAllDrink();
